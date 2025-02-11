@@ -12,12 +12,16 @@ Analysis: Risk factors are calculated for each driver using PigScript. Drivers w
 #### 📈Results:
 
 Driver A97 is identified as the riskiest driver, involved in multiple speeding and lane departure incidents.
+![image](https://github.com/user-attachments/assets/8a5f193a-6e7a-44a9-9311-7b2fcd4be0e2)
 
 Truck Models: The Oshkosh model has the highest risk factor, while Ford trucks exhibit the most frequent incidents.
+![image](https://github.com/user-attachments/assets/11489cb3-89af-4b80-a90d-a5c30278abae)
 
-Risk Patterns: Overspeeding and unsafe following distance are the most common high-risk events.
+Risk Patterns: Lane Departure and unsafe following distance are the most common high-risk events.
+![image](https://github.com/user-attachments/assets/1a5b22e2-ce4b-43b8-a241-89b45f0e0fb8)
 
 Geographic Insights: Cities like Hollister have the highest risk, with lane departures being the most common cause of incidents.
+![image](https://github.com/user-attachments/assets/4a01baae-b5ca-4eee-9581-26cd91aec445)
 
 #### 📊Technologies Used:
 
