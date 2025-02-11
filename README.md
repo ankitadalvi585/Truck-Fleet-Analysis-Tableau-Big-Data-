@@ -1,4 +1,4 @@
-### 🚛 Truck-Fleet-Risk-Analysis-using-Hadoop
+### 🚛 Truck Fleet Analysis using Tableau (Big Data)
 This project focuses on analyzing truck driver's risk factors for a fictional national trucking company, AZ National Trucking (ANT), to enhance safety and compliance. The primary goal is to identify high-risk drivers based on factors such as speeding, lane departures, and unsafe following. Using Hadoop tools for data processing and Tableau for visualizations, the project analyzes driver behavior and truck data to mitigate risks associated with trucking accidents.
 
 #### 🔍Key Steps:
